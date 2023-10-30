@@ -1,6 +1,6 @@
 import {OrderItem} from "./Items/OrderItem";
 
-class Restaurant {
+export class Restaurant {
     private name: string;
     private orders: OrderItem[];
 
